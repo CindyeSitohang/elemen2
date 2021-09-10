@@ -1,0 +1,29 @@
+
+<head>
+<style>
+ section {
+    background-color:	#FFE4C4
+    text-align:center
+} 
+
+ </style>
+</head>
+<body>
+<header> 
+ <h2> FILOSOFI POHON CINDYESITOHANG </h2> 
+</header>
+
+<section>
+
+ <h2 Form Login : </h2>
+ <form action="inputdata.html">
+    <label for="inputnama"> Masukkan nama :</label> <br>
+    <input type="text"> <br>
+    <label for="inputpassword"> Masukkan nama :</label> <br>
+    <input type="password"> <br>
+    <input type="submit" value="login"
+</from>
+</section>
+
+</body>
+</html>
